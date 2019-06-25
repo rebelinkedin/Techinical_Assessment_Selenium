@@ -36,8 +36,8 @@ This is a Web App test automation exercise created using the Selenium WebDriver 
 3. Run the below command to start the tests
    1. **mvn clean install** or **mvn clean test**
 4. See the test report
-   1. Access **surefire-reports** to see the test report in *emailable-report.html*
-   1. Access **surefire-reports/Test Suite** to see the test report in *QaAutomationExercise.html* and *QaAutomationExercise.xml*
+   1. Access **target > surefire-reports** to see the test report in *emailable-report.html*
+   1. Access **target > surefire-reports/Test Suite** to see the test report in *QaAutomationExercise.html* and *QaAutomationExercise.xml*
    
 **Run tests in IntelliJ**
 1. Open the Git bash and clone the project using below command on the target directory: git clone [https://github.com/rebelinkedin/Nuvolar.git]
