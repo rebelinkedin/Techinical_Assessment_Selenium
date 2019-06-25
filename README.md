@@ -40,7 +40,7 @@ This is a Web App test automation exercise created using the Selenium WebDriver 
    1. Access **surefire-reports/Test Suite** to see the test report in *QaAutomationExercise.html* and *QaAutomationExercise.xml*
    
 **Run tests in IntelliJ**
-1. Open the Git bash and clone the project using below command on the target directory: git clone [URL]
+1. Open the Git bash and clone the project using below command on the target directory: git clone [https://github.com/rebelinkedin/Nuvolar.git]
 2. Open the IntelliJ and open the project from the project directory
 3. In order to see the test report
    * Open IntelliJ, select **Run > Edit Configurations**
