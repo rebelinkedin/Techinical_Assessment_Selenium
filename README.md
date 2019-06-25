@@ -31,7 +31,7 @@ This is a Web App test automation exercise created using the Selenium WebDriver 
 
 ### Getting Started 
 **Run tests with Maven on Windows**
-1. Open the Git bash and clone the project using below command on the target directory: git clone [URL]
+1. Open the Git bash and clone the project using below command on the target directory: git clone [https://github.com/rebelinkedin/Nuvolar.git]
 2. Open the windows command prompt **'cmd'** and navigate to the project directory
 3. Run the below command to start the tests
    1. **mvn clean install** or **mvn clean test**
