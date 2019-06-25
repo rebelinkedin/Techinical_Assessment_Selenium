@@ -49,8 +49,10 @@ This is a Web App test automation exercise created using the Selenium WebDriver 
    * Open IntelliJ, select **Run > Edit Configurations**
    * Select **TestNG.xml** file and go to **Listeners** tab
    * Add the following reporters:
-     * EmailableReporter
-     * FailedReporter 
+     * org.testng.reporters.EmailableReporter
+     * org.testng.reporters.FailedReporter 
+     * org.testng.reporters.TestHTMLReporter
    * Click **Apply** and **OK**
 4. Select **testing.xml** file and right click > Run **'TestNG.xml'**      
    * Access **test-output** folder to see the test report in *emailable-report.html*
+   * Access **Test Suite** folder to see the test report in *QaAutomationExercise.html*
