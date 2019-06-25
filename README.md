@@ -39,7 +39,7 @@ This is a Web App test automation exercise created using the Selenium WebDriver 
       * If you have modified the test and your change was not refreshed when run **mvn clean test**, then run **mvn clean install** command instead
 4. See the test report
    1. Access **target > surefire-reports** folder to see the test report in *emailable-report.html*
-   1. Access **target > surefire-reports/Test Suite** folder to see the test report in *QaAutomationExercise.html* and *QaAutomationExercise.xml*
+   1. Access **target > surefire-reports/Test Suite** folder to see the test report in *QaAutomationExercise.html*
    
 **Run tests in IntelliJ**
 1. Open the Git bash and clone the project using below command on the target directory:
